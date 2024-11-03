@@ -39,11 +39,16 @@ color: #C72C37;
 
 /* Mis trabajos */
 
+
+
+
+
 #Mis-trabajos .image-top {
   height: 250px;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+ 
 }
 
 #Acerca-de-mi {
@@ -56,6 +61,13 @@ color: #C72C37;
   
 }
 
+.bg-but{
+  background-color: #C72C37;
+}
+
+.bg-but:hover {
+  background-color: #add8e6; /* Color más oscuro al hacer hover */
+}
 
 /* Contacto */
 
