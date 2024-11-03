@@ -11,8 +11,26 @@ body {
   background-position: left;
 }
 
-.owner{
-  
+.custom-title{
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  align-items: flex-start;
+  margin-top: 50px;
+  font-size: 60px;
+  ;
+}
+
+h1{
+margin: 0;
+color: gray;
+
+}
+
+.custom-paragraph{
+  color:black;
+  background-color: #17a2b8;
+  font-size: large;
 }
 
 /* Mis trabajos */
