@@ -23,14 +23,18 @@ body {
 
 h1{
 margin: 0;
-color: gray;
+color: #C72C37;
 
 }
 
 .custom-paragraph{
-  color:black;
-  background-color: #17a2b8;
+  color:white;
+  background-color: #C72C37;
   font-size: large;
+}
+
+.bg-custom{
+  background: #C72C37;
 }
 
 /* Mis trabajos */
@@ -41,6 +45,17 @@ color: gray;
   background-size: cover;
   background-position: center;
 }
+
+#Acerca-de-mi {
+  background-color: #C72C37; 
+  padding: 20px; 
+  color: white; 
+  width: 100%;
+  margin: auto;
+  
+  
+}
+
 
 /* Contacto */
 
